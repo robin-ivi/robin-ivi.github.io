@@ -25,7 +25,7 @@ I'm [Krishna Mishra], a [Enginner/Software Engg] based in [Bangalore]. I'm passi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/robin-ivi/personal.git
 ```
 
 ![download (7)](https://github.com/robin-ivi/personal/assets/59382640/c0f159a2-5adb-4df6-b8cf-aa61be4cfabc)
