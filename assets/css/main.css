@@ -15973,7 +15973,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
   }
 }
 .tp-portfolio-thumb.img-1 {
-  height: 560px;
+  height: 256px;
   overflow: hidden;
 }
 @media (max-width: 767px) {
@@ -15982,7 +15982,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
   }
 }
 .tp-portfolio-thumb.img-2 {
-  height: 520px;
+  height: 256px;
   overflow: hidden;
 }
 @media (max-width: 767px) {
@@ -15991,7 +15991,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
   }
 }
 .tp-portfolio-thumb.img-3 {
-  height: 500px;
+  height: 256px;
   overflow: hidden;
 }
 @media (max-width: 767px) {
