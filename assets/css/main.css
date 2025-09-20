@@ -15978,7 +15978,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
 }
 @media (max-width: 767px) {
   .tp-portfolio-thumb.img-1 {
-    height: 460px;
+    height: 180px;
   }
 }
 .tp-portfolio-thumb.img-2 {
@@ -15987,7 +15987,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
 }
 @media (max-width: 767px) {
   .tp-portfolio-thumb.img-2 {
-    height: 460px;
+    height: 180px;
   }
 }
 .tp-portfolio-thumb.img-3 {
@@ -15996,7 +15996,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
 }
 @media (max-width: 767px) {
   .tp-portfolio-thumb.img-3 {
-    height: 460px;
+    height: 180px;
   }
 }
 .tp-portfolio-thumb.img-4 {
