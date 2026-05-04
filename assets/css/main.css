@@ -16224,7 +16224,7 @@ html[tp-theme=tp-theme-light] .cursor-white #ball {
   left: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(100% 1330.1% at 0% 52.65%, #0F183E 0%, rgba(15, 24, 62, 0.77) 52.08%, #0F183E 100%);
+  background: radial-gradient(100% 1330.1% at 0% 52.65%, #213617 0%, rgb(33 54 23 / 59%) 52.08%, #213618 100%);
   content: "";
 }
 .porfolio-inner__slider-title {
